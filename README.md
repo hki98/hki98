@@ -4,7 +4,7 @@
 
 declare(strict_types=1);
 
-namespace Nelexa;
+namespace Haian;
 
 final class MyProfile implements UserProfile
 {
