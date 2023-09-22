@@ -1,5 +1,5 @@
 ### Hi there 👋
-```
+```php
 <?php
 
 declare(strict_types=1);
@@ -20,6 +20,7 @@ final class MyProfile implements UserProfile
     {
         return [
             \Language\Php::class => ['versions' => '^4 | ^5 | ^7 | ^8'],
+            \Language\Python::class => ['versions' => '^3'],
             \Language\Javascript::class => ['versions' => 'ES3 | ES5 | ES6 | ES7 | ES8 | ES9 | ES 10 | ES11'],
             \Language\Typescript::class => ['versions' => '^4'],
             \Language\Html::class => ['versions' => '^4 | ^5 | dev-xhtml | dev-wml'],
