@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Haian Ibrahim
+### Full Stack Developer
 ```php
 <?php
 
