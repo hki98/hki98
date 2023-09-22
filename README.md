@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Haian Ibrahim
-### Full Stack Developer
+### 💻 Full Stack Developer | My Skills 👇🏻
 ```php
 <?php
 
@@ -27,7 +27,9 @@ final class MyProfile implements UserProfile
             \Language\Html::class => ['versions' => '^4 | ^5 | dev-xhtml | dev-wml'],
             \Language\Css::class => ['versions' => '^2 | ^3'],
             \Language\Scss::class => ['versions' => '*'],
-            \Language\Java::class => ['versions' => '5 - 11'],
+            \Language\Java::class => ['versions' => '5 - 18'],
+            \Language\Kotiln::class => ['versions' => '1.9.10'],
+            \Language\Dart::class => ['versions' => '3.1.2'],
             \Language\Bash::class => ['versions' => '^4 | ^5'],
             \Language\Xml::class => ['versions' => '*'],
             \Language\Json::class => ['versions' => '*'],
@@ -37,6 +39,7 @@ final class MyProfile implements UserProfile
             \Framework\Frontend\Javascript\React::class => ['versions' => '^16.13 | ^17'],
             \Framework\Fullstack\NextJS::class => ['versions' => '^10.2'],
             \Framework\Fullstack\Django::class => ['versions' => '^4.2.5'],
+            \Framework\Fullstack\Flutter::class => ['versions' => '^3.13'],
 
             \Tools\Webpack::class => ['versions' => '^4 | ^5'],
             \Tools\Gulp::class => ['versions' => '^3.9 | ^4.0'],
