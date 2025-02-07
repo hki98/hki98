@@ -13,7 +13,7 @@ final class MyProfile implements UserProfile
         public readonly int $id = 99519781,
         public readonly string $name = 'Haian Ibrahim',
         public readonly string $username = 'hki98',
-        public readonly int $age = 26,
+        public readonly int $age = 27,
     ) {
     }
 
